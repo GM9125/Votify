@@ -33,7 +33,7 @@ A secure and efficient web-based voting system built with Django framework. This
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Votify.git
+git clone https://github.com/GM9125/Votify.git
 cd Votify
 ```
 
@@ -99,11 +99,7 @@ Votify/
 ## Contributors
 
 ```
-Made with ❤️ by
-- Ghulam Mustafa
-- Muhammad Ahsan
-- Muhammad Farhan Khan
-- Hassan Abbas
+Made with ❤️ by Ghulam Mustafa
 ```
 
 ## Contact
