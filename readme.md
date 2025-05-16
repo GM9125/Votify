@@ -99,8 +99,7 @@ Votify/
 ## Contributors
 
 ```
-Made with ❤️ by
-Ghulam Mustafa
+Made with ❤️ by Ghulam Mustafa
 ```
 
 ## Contact
